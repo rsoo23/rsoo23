@@ -1,4 +1,4 @@
-### Hi there 👋
+[![rsoo's 42 stats](https://badge.mediaplus.ma/darkblue/rsoo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 <!--
 **rsoo23/rsoo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
