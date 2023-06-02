@@ -1,4 +1,10 @@
+## 42 Stats:
 [![rsoo's 42 stats](https://badge.mediaplus.ma/darkblue/rsoo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
+[![](https://visitcount.itsvg.in/api?id=rsoo23&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
+
+## Learning:
+[![My Skills](https://skillicons.dev/icons?i=c,bash,git,linux,vim,vscode&perline=15)](https://skillicons.dev)
 
 <!--
 **rsoo23/rsoo23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
