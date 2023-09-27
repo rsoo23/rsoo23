@@ -1,3 +1,6 @@
+## About me:
+Hello! I'm Rong Jie, a 42KL Cadet currently pursuing the 42's core programme. Currently, I'm still in the discovery stage in regards to learning computer science and programming, but currently I have done projects in C, learning C++, python and planning explore app development using Flutter in the future! I'm also currently working as a Figma designer on a gamified diet app (called Byte In) as a side project with my team. 
+
 ## 42 Stats:
 [![rsoo's 42 stats](https://badge.mediaplus.ma/darkblue/rsoo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
