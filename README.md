@@ -21,7 +21,7 @@ I'm Rong Jie, a 42KL Cadet currently pursuing 42 school's core programme.
 
 
 ## 🧰 Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,flutter,figma,py,bash,git,linux,vim,vscode&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,flutter,dart,figma,godot,py,bash,git,linux,vim,vscode&perline=15)](https://skillicons.dev)
 
 ## 📈 Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=rsoo23&theme=prussian)](https://git.io/streak-stats)
