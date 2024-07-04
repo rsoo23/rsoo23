@@ -8,7 +8,7 @@
 ## 🤔 About me:
 I'm Rong Jie, a 42KL Cadet currently pursuing 42 school's core programme.
 
-- 🔭 I’m currently working on ByteIn a gamified calorie tracking app, as a Figma designer + tech assistant (Flutter + others) with my team
+- 🔭 I’m currently working as a part-time Frontend Game Developer at ELVTD.IO
 - 🌱 I’m currently exploring app development with Flutter and Dart
 - 💡 Fun fact: I know some Japanese 🗾 and play the electric guitar 🎸 for fun!
 
@@ -21,7 +21,7 @@ I'm Rong Jie, a 42KL Cadet currently pursuing 42 school's core programme.
 
 
 ## 🧰 Tools:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,flutter,dart,figma,godot,py,bash,git,docker,nginx,supabase,linux,debian,vim,vscode&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,flutter,dart,figma,godot,py,bash,git,docker,postman,nginx,supabase,linux,debian,vim,vscode,neovim,obsidian&perline=15)](https://skillicons.dev)
 
 ## 📈 Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=rsoo23&theme=prussian)](https://git.io/streak-stats)
